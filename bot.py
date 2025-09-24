@@ -9,8 +9,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 # استدعاء التوكن من متغيرات البيئة في Render
 TOKEN = os.getenv("TOKEN")
-# هنا تضع الـ ID الخاص بك كمطور (للحماية). قم بتغيير هذا الرقم.
-ADMIN_IDS = [000000000]
+# هنا تضع الـ ID الخاص بك كمطور (للحماية).
+ADMIN_IDS = [5853454436]
 
 # اسم ملف قاعدة البيانات
 DATA_FILE = "data.json"
