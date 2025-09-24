@@ -1,0 +1,21 @@
+{
+  "Internal Medicine": {
+    "Cardiology": {
+      "Videos": [],
+      "Books": [],
+      "Professors": {}
+    },
+    "Pulmonology": {
+      "Videos": [],
+      "Books": [],
+      "Professors": {}
+    }
+  },
+  "Surgery": {
+    "General Surgery": {
+      "Videos": [],
+      "Books": [],
+      "Professors": {}
+    }
+  }
+}
